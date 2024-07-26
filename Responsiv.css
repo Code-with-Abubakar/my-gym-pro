@@ -1,0 +1,39 @@
+@media (max-width: 600px) {
+  .info-2 > p {
+    width: 240px;
+  }
+
+  .Location-l {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .Location {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  footer {
+    height: 85vh;
+  }
+
+  .info .add {
+    padding: 3px 75px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 6vw;
+    font-weight: 700;
+  }
+
+  .hero p {
+    font-size: 2.5vw;
+    font-weight: 500;
+  }
+}
